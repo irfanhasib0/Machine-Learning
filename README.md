@@ -8,11 +8,6 @@ Here I have added my machine learning projects.
 
 # Reinforcement Learning
 
-1.DQN
-![](Algorihms/DQN.jpg)
-
-
-2.DDPG
-![](Algorihms/DDPG.jpg)
-
+1.NN
+![](Algorihms/NN.jpg)
 
