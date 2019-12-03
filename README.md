@@ -6,8 +6,8 @@ Here I have added my machine learning projects.
 
 
 
-# Reinforcement Learning
 
-1.NN
-![](Algorihms/NN.jpg)
+1.
+![NN Implementation from scratch - Code ](Machine_Learning_Algo_From_Scratch/ANN_From_Scratch_modular_class.ipynb)
+![Flowchart](Algorihms/NN.jpg)
 
