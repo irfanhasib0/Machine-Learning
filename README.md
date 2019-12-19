@@ -10,4 +10,5 @@ Here I have added my machine learning projects.
 1.
 ![NN Implementation from scratch - Code ](Machine_Learning_Algo_From_Scratch/ANN_From_Scratch_modular_class.ipynb)
 ![Flowchart](Algorihms/NN.jpg)
+![Flowchart](Algorihms/ID3.jpg)
 
