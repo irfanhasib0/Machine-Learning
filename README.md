@@ -11,8 +11,6 @@ Here I have added my machine learning projects.
 ![NN Implementation from scratch - Code ](Machine_Learning_Algo_From_Scratch/ID3_with_continuous_feature_support_exp.py)
 ![Flowchart](Algorihms/NN.jpg)
 
-
-
 ![ID3 Implementation from scratch - Code ](Machine_Learning_Algo_From_Scratch/ANN_From_Scratch_modular_class.ipynb)
 ![Flowchart](Algorihms/ID3.jpg)
 
