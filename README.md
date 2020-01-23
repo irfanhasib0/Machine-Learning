@@ -8,7 +8,7 @@ Here I have added my machine learning projects.
 <img src="https://github.com/irfanhasib0/Machine-Learning/Algorihms/NN.jpg" align="right"
      title="Size Limit logo by Anton Lovchikov" width="1080" height="720">
 <img src="https://github.com/irfanhasib0/Machine-Learning/Results/xor_Ann.jpg" align="right"
-     title="Size Limit logo by Anton Lovchikov" width="1080" height="720">
+     title="Size Limit logo by Anton Lovchikov" width="320" height="240">
 
 ### ID3 Implementation from scratch with continuous data split based on entropy and information gain.
 * Titanic and irish dataset was used for testing ID3.
