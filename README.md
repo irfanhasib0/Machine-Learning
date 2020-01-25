@@ -12,7 +12,7 @@ Here I have added my machine learning projects.
      title="Schematics" width="320" height="240">
 
 
-### ID3 Implementation from scratch with continuous data split based on entropy and information gain.
+### Decision Tree :: ID3 Implementation from scratch with continuous data split based on entropy and information gain.
 * Titanic and irish dataset was used for testing ID3.
 * Continuous data spliting based on information gain.
 * ID3 Algorithm with recursion. Best attribute was calculated based on information gain.
@@ -20,6 +20,12 @@ Here I have added my machine learning projects.
 * ![ID3 Implementation from scratch - Code ](https://github.com/irfanhasib0/Machine-Learning/blob/master/Machine_Learning_Algo_From_Scratch/ANN_From_Scratch_modular_class.ipynb)
 <img src="https://github.com/irfanhasib0/Machine-Learning/blob/master/docs/Algorihms/ID3.jpg" align="center"
      title="Schematics" width="640" height="480">
+* Result of ID3 implementation for Titanic data - Precision Recall and Accuracy for -
+<img src="https://github.com/irfanhasib0/Machine-Learning/blob/master/docs/Results/iris_ID3.jpg" align="left"
+     title="Schematics" width="320" height="240">
+* Result of ID3 implementation for Iris data - True Label vs Prediction -
+<img src="https://github.com/irfanhasib0/Machine-Learning/blob/master/docs/Results/xor_ann.jpg" align="right"
+     title="Schematics" width="320" height="240">
 
 
 ### Naive Bayes Implementation for text classification.
